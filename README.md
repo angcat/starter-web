@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2021 Catalin Anghel
+2021 Catalin Anghel. All rights reserved.
