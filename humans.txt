@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks Udemy
+	I understand GIT better now
 
 # TECHNOLOGY COLOPHON
 
