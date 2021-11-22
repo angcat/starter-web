@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Catalin Anghel	anghel_catalin_89@yahoo.com	@anghel.catalin
+	
 # THANKS
 
     <name>
